@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning App Development and Data Analytics
 - 👯 I’m looking to collaborate on Hackthons and CTFs.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a big football fan and the role data has in making footballing decisions.
+- ⚡ Fun fact: I'm a big football fan and the role data has, in making footballing decisions.
 
