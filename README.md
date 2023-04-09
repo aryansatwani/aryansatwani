@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**aryansatwani/aryansatwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Data Analysis Projects.
+- 🌱 I’m currently learning App Development and Data Analytics
+- 👯 I’m looking to collaborate on Hackthons and CTFs.
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+<button name="button">Linkedin</button>
+https://www.linkedin.com/in/aryan-satwani-43a46a211/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a big football fan and the role data has in making footballing decisions.
+
